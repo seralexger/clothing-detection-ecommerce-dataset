@@ -1,8 +1,6 @@
 # Clothing detection ecommerce dataset
 
-If you find this dataset interesting and useful, please rate the repo or donate for make more datasets and biggers datasets ;)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7WYS86C54HFSE&source=url)
+If you find this dataset interesting and useful, please rate the repo.
 
 I have created a dataset with more than 80k images from ecommerce websites:
 
