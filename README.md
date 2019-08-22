@@ -69,7 +69,7 @@ All images have been automatically annotate, you can find all the annotations in
 
 ### Example
 
-In preview_annotation.py there is an example code to preview the annotations, you can go to next picture with key 'n', go back with key 'b', remove the image from the folder with key 'r' and quit qith key 'q'.
+In preview_annotation.py there is an example code to preview the annotations, you can go to next picture with key 'n', go back with key 'b', remove the image from the folder with key 'r' and quit with key 'q'.
 
 ```
 python preview_annotation.py -d dataset/camisetas/ -a annotations
