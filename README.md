@@ -127,3 +127,5 @@ python preview_annotation.py -d dataset/camisetas/ -a annotations
   "file_name": "dataset/abrigos/1.jpg"
 }
 ```
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7WYS86C54HFSE&source=url)
