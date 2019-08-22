@@ -1,5 +1,12 @@
+# -*- coding: utf-8 -*-
 
-
+#########################################################
+#
+# Alejandro German
+# 
+# https://github.com/seralexger/clothing-detection-ecommerce-dataset
+#
+#########################################################
 
 
 from __future__ import print_function
