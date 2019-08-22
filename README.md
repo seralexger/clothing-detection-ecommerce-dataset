@@ -2,11 +2,11 @@
 
 If you find this dataset interesting and useful, please rate the repo or donate for make more datasets and biggers datasets ;)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQDSNJ3547NP4&source=url)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7WYS86C54HFSE&source=url)
 
 I have created a dataset with more than 80k images from ecommerce websites:
 
-- "dataset.zip" (https://mega.nz/#!JdJyHKbJ!svy5SyoLSHfjUJOM5YcBXrQahvXFuTGDquPkWaxUKgo), where you can find all the images.
+- "dataset.zip" (https://mega.nz/#!op4ADSRQ!af4skXn2jEEkOOWRrwAQi47OM_wIa0ZpKGJ5u8WjY9E), where you can find all the images.
 
 
 ## Getting Started
@@ -77,7 +77,7 @@ In preview_annotation.py there is an example code to preview the annotations, yo
 python preview_annotation.py -d dataset/camisetas/ -a annotations
 ```
 
-![alt text]()
+![alt text](https://github.com/seralexger/clothing-detection-ecommerce-dataset/blob/master/resources/clothe.gif)
 
 
 ### Annotation JSON scheme example
