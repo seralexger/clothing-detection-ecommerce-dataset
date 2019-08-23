@@ -1,7 +1,5 @@
 # Clothing detection ecommerce dataset
 
-If you find this dataset interesting and useful, please rate the repo.
-
 I have created a dataset with more than 80k images from ecommerce websites:
 
 - "dataset.zip" (https://mega.nz/#!op4ADSRQ!af4skXn2jEEkOOWRrwAQi47OM_wIa0ZpKGJ5u8WjY9E), where you can find all the images.
