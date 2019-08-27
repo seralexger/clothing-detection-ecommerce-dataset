@@ -63,7 +63,7 @@ The images have been classified by category in folders, here I list all the cate
  'sandalias']
 ```
 
-All images have been automatically annotate, you can find all the annotations in the file 'annotation.zip'.
+All images have been automatically annotated, you can find all the annotations in the file 'annotation.zip'.
 
 ### Example
 
